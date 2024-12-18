@@ -3,16 +3,17 @@ Profile page work in progress.
 
 ### Main Skills
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,py)](https://skillicons.dev) 
+[![My Languages](https://skillicons.dev/icons?i=cpp,js,ts,py)](https://skillicons.dev) 
 
 #### Tech
-React, Node, Docker, Jest, AWS.
+[![My Techs](https://skillicons.dev/icons?i=react,nodejs,docker,aws,jest)](https://skillicons.dev) 
 
 #### Database
-MySql, Sequelize.
+[![My Databases](https://skillicons.dev/icons?i=mysql,sequelize)](https://skillicons.dev) 
 
 #### Others
-GitHub, Linux, LaTeX.
+[![My Databases](https://skillicons.dev/icons?i=github,linux,latex)](https://skillicons.dev) 
 
 ### Studying
-MongoDB
+[![My Databases](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev) 
+
