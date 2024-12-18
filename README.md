@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there
+Profile page work in progress.
 
-<!--
-**Conke94/Conke94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Main Skills
+#### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,py)](https://skillicons.dev) 
 
-Here are some ideas to get you started:
+#### Tech
+React, Node, Docker, Jest, AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Database
+MySql, Sequelize.
+
+#### Others
+GitHub, Linux, LaTeX.
+
+### Studying
+MongoDB
