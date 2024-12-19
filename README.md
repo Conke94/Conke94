@@ -1,5 +1,5 @@
 # Hi there
-Profile page work in progress.
+My name is Gabriel Conke, I'm currently studying Computer Engineering in Universidade Tecnológica Federal do Paraná (UTFPR). I'm passionate about building innovative solutions in the tech world, especially when it comes to helping people. This space showcases my projects, learning journey and enthusiasm for Software Engineer.
 
 ### Main Skills
 #### Programming Languages
